@@ -2,5 +2,5 @@
 int main(){
     float pi;
     scanf("%f",&pi);
-    printf("You entered: , %f/n", pi);
+    printf("You entered: , %.2f/n", pi);
 }
