@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main(){
-    char a,b[20];
-    scanf("%s %s", &a,&b);
-    printf("You entered: %s\n", a and b);
+    char word,word[20];
+    scanf("%s %s", &word,&word);
+    printf("You entered: %s\n", word and word);
     return 0;
 }
