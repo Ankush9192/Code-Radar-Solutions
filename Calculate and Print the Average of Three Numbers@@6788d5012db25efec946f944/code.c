@@ -4,8 +4,7 @@
 int main() {
     int a, b, c;
     
-    // Taking three integer inputs
-    printf("Enter three numbers: ");
+    
     scanf("%d %d %d", &a, &b, &c);
 
     // Calculating the correct average
