@@ -1,8 +1,9 @@
 #include <stdio.h>
 int main(){
-    int True;
-    int False;
-    scanf("%s", &a, &b);
-    printf("%s\n", a > b);
-    return 0;
+    int a,b;
+    scanf("%d %d", &a, &b);
+    if(a > b){
+        printf("True")
+    }
+
 }
