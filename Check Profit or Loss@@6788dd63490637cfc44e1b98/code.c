@@ -1,4 +1,4 @@
-include <stdio.h>
+#include <stdio.h>
 
 int main() {
     int a,b;
@@ -13,4 +13,3 @@ int main() {
         printf("No Profit No Loss");
     }
 }
-return 0;
