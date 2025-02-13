@@ -12,4 +12,4 @@ int main() {
     else{
         printf("No Profit No Loss");
     }
-}' 
+} 
