@@ -6,4 +6,16 @@ int main(){
     if(A == A){
         printf("Excellent");
     }
+    else if(A == B){
+        printf("Good");
+    }
+    else if(A == C){
+        printf("Average");
+    }
+    else if(A == D){
+        printf("Below Average");
+    }
+    else if(A == F){
+        printf("Fail");
+    }
 }
