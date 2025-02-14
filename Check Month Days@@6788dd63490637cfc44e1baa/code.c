@@ -3,7 +3,7 @@
 int main(){
     int months;
     scanf("%d", &months);
-    switch("months"){
+    switch(months){
         case 1:
         printf("31");
         break;
