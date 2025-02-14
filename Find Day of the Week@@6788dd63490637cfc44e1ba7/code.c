@@ -26,3 +26,4 @@ switch (day) {
     printf("Sunday");
     break;
 }
+}
