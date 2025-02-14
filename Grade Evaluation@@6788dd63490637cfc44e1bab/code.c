@@ -1,21 +1,21 @@
 #include <stdio.h>
 
 int main(){
-    char A,B,C,D,F;
-    scanf("%c %c %c %c", &A,&B,&C,&D,&F);
-    if(A == A){
+    char grade;
+    scanf("%s", &grade);
+    if(grade == A){
         printf("Excellent");
     }
-    else if(A == B){
+    else if(grade == B){
         printf("Good");
     }
-    else if(A == C){
+    else if(grade  == C){
         printf("Average");
     }
-    else if(A == D){
+    else if(grade  == D){
         printf("Below Average");
     }
-    if(A == F){
+    if(grade == F){
         printf("Fail");
     }
 }
