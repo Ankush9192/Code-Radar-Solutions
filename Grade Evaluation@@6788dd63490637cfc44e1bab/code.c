@@ -18,4 +18,4 @@ int main(){
     if(A == F){
         printf("Fail");
     }
-    }
+}
