@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main(){
-    int day = a;
+    int day;
     scanf("%d", &day);
     switch (day) {
         case 1:
