@@ -12,7 +12,7 @@ int main(){
     else if(light == 'Y'){
         printf("Slow Down");
     }
-    if{
+    else{
         printf("Invalid input");
     }
 
