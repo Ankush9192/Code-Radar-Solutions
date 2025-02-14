@@ -5,4 +5,5 @@ int main(){
     for(int i=N; i >=1 ; i++){
         printf(" *\n");
     }
-}return 0;
+    return 0;
+}
