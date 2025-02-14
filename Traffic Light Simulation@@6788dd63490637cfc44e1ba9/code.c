@@ -9,8 +9,12 @@ int main(){
     else if(light == 'G'){
         printf("Go");
     }
-    if(light == 'Y'){
+    else if(light == 'Y'){
         printf("Slow Down");
     }
+    if{
+        printf("Invalid input");
+    }
+
     
 }
