@@ -2,7 +2,7 @@
 
 int main(){
     char grade;
-    scanf("%s", &grade);
+    scanf("%c", &grade);
     if(grade == A){
         printf("Excellent");
     }
@@ -12,7 +12,7 @@ int main(){
     else if(grade  == C){
         printf("Average");
     }
-    else if(grade  == D){
+    else if(grade == D){
         printf("Below Average");
     }
     if(grade == F){
