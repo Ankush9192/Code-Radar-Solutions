@@ -2,7 +2,7 @@
 
 int main(){
     int day = a;
-    scanf("%d", &a);
+    scanf("%d", &day);
     switch (day) {
         case 1:
         printf("Monday");
