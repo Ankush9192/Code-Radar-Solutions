@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 int main(){
-    char A;
-    scanf("%c", &A);
+    char A,B,C,D,F;
+    scanf("%c %c %c %c", &A,&B,&C,&D,&F);
     if(A == A){
         printf("Excellent");
     }
